@@ -3080,7 +3080,7 @@ __metadata:
     react-debounced: "npm:1.1.2"
     react-dom: "npm:18.3.1"
     react-i18next: "npm:15.4.0"
-    react-router: "npm:7.1.1"
+    react-router: "npm:7.12.0"
     react-router-dom: "npm:7.1.1"
     react-transition-group: "npm:4.4.5"
     rollup: "npm:4.29.1"
@@ -4571,6 +4571,22 @@ __metadata:
     react-dom:
       optional: true
   checksum: 10c0/39f4859670f286eb2eac29e5830c1f730405701fca0808e5db853ec05e54e55a848c764e10ffd14a7b9b3b2154a0d6449656d7f208b9b3e4b2af780e07bf57a8
+  languageName: node
+  linkType: hard
+
+"react-router@npm:7.12.0":
+  version: 7.12.0
+  resolution: "react-router@npm:7.12.0"
+  dependencies:
+    cookie: "npm:^1.0.1"
+    set-cookie-parser: "npm:^2.6.0"
+  peerDependencies:
+    react: ">=18"
+    react-dom: ">=18"
+  peerDependenciesMeta:
+    react-dom:
+      optional: true
+  checksum: 10c0/abde366f716cb3961a5a390c278375c0591bace5773e1b4420001f0a913b4dd53d490e7dea866acebcac2c0fa07378aa83702769d449449027406ed517a8ea00
   languageName: node
   linkType: hard
 
