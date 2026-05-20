@@ -285,9 +285,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@camunda/camunda-composite-components@npm:0.15.0":
-  version: 0.15.0
-  resolution: "@camunda/camunda-composite-components@npm:0.15.0"
+"@camunda/camunda-composite-components@npm:0.15.1":
+  version: 0.15.1
+  resolution: "@camunda/camunda-composite-components@npm:0.15.1"
   dependencies:
     jwt-decode: "npm:4.0.0"
     react-error-boundary: "npm:4.0.13"
@@ -298,7 +298,7 @@ __metadata:
     react: 18.x
     react-dom: 18.x
     styled-components: 5.x || 6.x
-  checksum: 10c0/c24f45193b7b663720aca773599b1b2835478f084b4da11d32663e36bfb313706c92b58c71887e6f8762065b05de49c82c3f8df0a1c9ca1b10795468648d2d50
+  checksum: 10c0/7f619f560b24e734d2197031163a7fba2a8afed39c17f407421311e7291e381942ddd17defe9b12863146f08fa21e2b7e3132a24bfda779107a9b0b407a3e425
   languageName: node
   linkType: hard
 
@@ -3055,7 +3055,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "identity-frontend@workspace:."
   dependencies:
-    "@camunda/camunda-composite-components": "npm:0.15.0"
+    "@camunda/camunda-composite-components": "npm:0.15.1"
     "@carbon/elements": "npm:^11.57.0"
     "@carbon/react": "npm:1.74.0"
     "@types/carbon-components-react": "npm:^7.55.13"
